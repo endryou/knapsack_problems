@@ -43,7 +43,7 @@ class KnapsackSolver extends Command {
     {
       name: "algorithm",
       required: true,
-      description: `Algorytm. Możliwe wartości: greedy (zachłanny), branchAndBound(podział i ograniczenia), dynamic(programowanie dynamiczne), bruteForce
+      description: `Algorytm. Możliwe wartości: greedy (zachłanny), boundAndBound(podział i ograniczenia), dynamic(programowanie dynamiczne), bruteForce
       Algorytmy dostępne dla danego problemu:
         MKP:\t${Object.keys(mkp.algorithms).join(", ")}
         UKP:\t${Object.keys(ukp.algorithms).join(", ")}
@@ -104,7 +104,7 @@ class KnapsackSolver extends Command {
     }
     else if (problem == "MKP") {
 
-      if(algorithm == 'branchAndBound' ) {
+      if(algorithm == 'boundAndBound' ) {
         if(!backtracks) {
           throw new Error("Nie podano ilości ponownych przejść! (flaga b)");
         }

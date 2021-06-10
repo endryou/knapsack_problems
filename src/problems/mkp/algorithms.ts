@@ -28,7 +28,7 @@ export const greedy = (knapsacks: Knapsack[], items: Item[]) => {
   cli.action.stop(`Zakończono w ${msToHumanReadableFormat(Date.now() - t0)}, maksymalny wynik = ${solution}`);
 }
 
-export const branchAndBound = (knapsacks: Knapsack[], items: Item[], maxBacktracks: number) => {
+export const boundAndBound = (knapsacks: Knapsack[], items: Item[], maxBacktracks: number) => {
   cli.action.start("Przetwarzanie");
   const t0 = Date.now();
 

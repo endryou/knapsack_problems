@@ -1,8 +1,8 @@
-import {branchAndBound, greedy} from "./algorithms";
+import {boundAndBound, greedy} from "./algorithms";
 
 export default {
   problemName: 'MKP',
   algorithms: {
-    greedy, branchAndBound
+    greedy, boundAndBound
   }
 }
