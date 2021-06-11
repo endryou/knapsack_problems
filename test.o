@@ -1,0 +1,274 @@
+Wykonywanie obliczeń dla zbiorów zawierających 50 przedmiotów
+Przejście nr 1
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/50_1.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_1
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 0 ms, maksymalny wynik = 601
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 3 ms, wynik = 614
+
+Przejście nr 2
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/50_2.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_1
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 0 ms, maksymalny wynik = 595
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 4 ms, wynik = 607
+
+Przejście nr 3
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/50_3.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_1
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 0 ms, maksymalny wynik = 601
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 6 ms, wynik = 607
+
+Przejście nr 4
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/50_4.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_1
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 0 ms, maksymalny wynik = 550
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 3 ms, wynik = 577
+
+Przejście nr 5
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/50_5.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_1
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 0 ms, maksymalny wynik = 584
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 7 ms, wynik = 589
+
+Przejście nr 6
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/50_6.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_1
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 0 ms, maksymalny wynik = 609
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 7 ms, wynik = 628
+
+Przejście nr 7
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/50_7.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_1
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 0 ms, maksymalny wynik = 552
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 8 ms, wynik = 565
+
+Przejście nr 8
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/50_8.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_1
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 0 ms, maksymalny wynik = 531
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 4 ms, wynik = 547
+
+Przejście nr 9
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/50_9.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_1
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 0 ms, maksymalny wynik = 584
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 8 ms, wynik = 605
+
+Przejście nr 10
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/50_10.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_1
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 0 ms, maksymalny wynik = 623
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 4 ms, wynik = 641
+
+Wykonywanie obliczeń dla zbiorów zawierających 2.5 tys. przedmiotów z 5 ponownymi przejściami dla boundAndBound
+Przejście nr 1
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/2500_1.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_2
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 2 ms, maksymalny wynik = 1261
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 6 s 315 ms, wynik = 1330
+
+Przejście nr 2
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/2500_2.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_2
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 2 ms, maksymalny wynik = 1283
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 4 s 832 ms, wynik = 1337
+
+Przejście nr 3
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/2500_3.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_2
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 2 ms, maksymalny wynik = 1298
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 6 s 599 ms, wynik = 1350
+
+Przejście nr 4
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/2500_4.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_2
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 2 ms, maksymalny wynik = 1281
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 3 s 403 ms, wynik = 1345
+
+Przejście nr 5
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/2500_5.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_2
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 2 ms, maksymalny wynik = 1268
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 3 s 982 ms, wynik = 1336
+
+Przejście nr 6
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/2500_6.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_2
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 2 ms, maksymalny wynik = 1272
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 6 s 324 ms, wynik = 1341
+
+Przejście nr 7
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/2500_7.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_2
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 2 ms, maksymalny wynik = 1263
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 6 s 343 ms, wynik = 1325
+
+Przejście nr 8
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/2500_8.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_2
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 2 ms, maksymalny wynik = 1291
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 6 s 511 ms, wynik = 1344
+
+Przejście nr 9
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/2500_9.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_2
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 2 ms, maksymalny wynik = 1273
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 6 s 338 ms, wynik = 1336
+
+Przejście nr 10
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/2500_10.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_2
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 2 ms, maksymalny wynik = 1292
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 6 s 294 ms, wynik = 1337
+
+Wykonywanie obliczeń dla zbiorów zawierających 5 tys. przedmiotów z 5 ponownymi przejściami dla boundAndBound
+Przejście nr 1
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/5000_1.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_3
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 6 ms, maksymalny wynik = 10128
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 5 s 952 ms, wynik = 10396
+
+Przejście nr 2
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/5000_2.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_3
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 3 ms, maksymalny wynik = 10251
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 3 s 611 ms, wynik = 10659
+
+Przejście nr 3
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/5000_3.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_3
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 3 ms, maksymalny wynik = 10161
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 3 s 678 ms, wynik = 10477
+
+Przejście nr 4
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/5000_4.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_3
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 3 ms, maksymalny wynik = 10340
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 3 s 728 ms, wynik = 10636
+
+Przejście nr 5
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/5000_5.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_3
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 6 ms, maksymalny wynik = 9990
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 8 s 540 ms, wynik = 10353
+
+Przejście nr 6
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/5000_6.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_3
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 3 ms, maksymalny wynik = 10353
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 3 s 591 ms, wynik = 10623
+
+Przejście nr 7
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/5000_7.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_3
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 3 ms, maksymalny wynik = 10215
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 3 s 623 ms, wynik = 10445
+
+Przejście nr 8
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/5000_8.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_3
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 3 ms, maksymalny wynik = 10129
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 3 s 667 ms, wynik = 10455
+
+Przejście nr 9
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/5000_9.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_3
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 3 ms, maksymalny wynik = 10343
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 7 s 817 ms, wynik = 10557
+
+Przejście nr 10
+Przedmioty: /home/michal/moje/knapsack_problems/datasets/mkp/items/5000_10.txt plecaki: /home/michal/moje/knapsack_problems/datasets/mkp/knapsacks_3
+Rozwiązywanie MKP za pomocą greedy
+Przetwarzanie... Zakończono w 0 godz. 0 min. 0 s 3 ms, maksymalny wynik = 10158
+
+Rozwiązywanie MKP za pomocą boundAndBound
+Ponowne przejścia: 5
+Przetwarzanie... Zakończono w 0 godz. 0 min. 3 s 620 ms, wynik = 10504
+
+
