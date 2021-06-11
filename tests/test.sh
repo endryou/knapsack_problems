@@ -4,10 +4,10 @@ PROJECT_ROOT=$( dirname $(dirname $(realpath $0)))
 #for i in $(seq 1 30);
 #  do  $PROJECT_ROOT/bin/run UKP greedy $PROJECT_ROOT/datasets/ukp/01 --capacity=120
 #done
-CAPACITY=10000000
-DATASET=100_01.txt
+CAPACITY=50000
+DATASET=5000_10.txt
 #UKP
-$PROJECT_ROOT/bin/run UKP greedy $PROJECT_ROOT/datasets/instances/$DATASET --capacity=$CAPACITY -v
+$PROJECT_ROOT/bin/run UKP greedy $PROJECT_ROOT/datasets/instances/$DATASET --capacity=$CAPACITY
 $PROJECT_ROOT/bin/run UKP bruteForce $PROJECT_ROOT/datasets/instances/$DATASET --capacity=$CAPACITY
 $PROJECT_ROOT/bin/run UKP dynamic $PROJECT_ROOT/datasets/instances/$DATASET --capacity=$CAPACITY
 
